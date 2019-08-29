@@ -1,0 +1,1 @@
+# prestashop-pretty-clean-urls
